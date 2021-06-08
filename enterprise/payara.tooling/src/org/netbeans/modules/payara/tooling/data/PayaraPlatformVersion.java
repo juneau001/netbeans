@@ -52,7 +52,7 @@ public class PayaraPlatformVersion implements PayaraPlatformVersionAPI, Comparab
      */
     private static final String DOWNLOAD_URL = "https://oss.sonatype.org/service/local/repositories/releases/content/fish/payara/distributions/payara/%s/payara-%s.zip"; // NOI18N
 
-    private static final String METADATA_URL = "https://repo1.maven.org/maven2/fish/payara/distributions/payara/maven-metadata.xml"; // NOI18N
+    private static final String METADATA_URL = "https://repo.maven.apache.org/maven2/fish/payara/distributions/payara/maven-metadata.xml"; // NOI18N
 
     private static final String CDDL_LICENSE = "https://raw.githubusercontent.com/payara/Payara/master/LICENSE.txt"; // NOI18N
 
